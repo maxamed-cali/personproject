@@ -1,0 +1,34 @@
+﻿body {
+}
+.carousel-item {
+    height: 450px;
+}
+
+.carousel-image-1 {
+    background: url("../img/image1.jpg");
+    background-size: cover;
+}
+
+.carousel-image-2 {
+    background: url("../img/image2.jpg");
+    background-size: cover;
+}
+
+.carousel-image-3 {
+    background: url("../img/image3.jpg");
+    background-size: cover;
+}
+.dark-overlay {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.7);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#main-footer {
+    background: #000;
+    color: #fff;
+}
+
